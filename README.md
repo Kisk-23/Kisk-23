@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ai projects
 - 📫 How to reach me, not as of yet
 - 😄 Pronouns: i don't do those, i'm him
-- ⚡ Fun fact: i think henry cavull is the best superman
+- ⚡ Fun fact: i think henry cavill is the best superman
 
 <!---
 Kisk-23/Kisk-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
